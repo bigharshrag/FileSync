@@ -9,5 +9,5 @@ sync {
 	source = "replacesource",
 	host = "45.55.80.138",
 	targetdir = "/home/replacename",
-	rsync = { rsh = "/usr/bin/ssh -l root -i /home/replaceuser/.ssh/id_rsa" }
+	rsync = { rsh = "/usr/bin/ssh -l replacename -i /home/replaceuser/.ssh/id_rsa" }
 }
