@@ -1,5 +1,4 @@
 ⁠⁠⁠--This is the configuration file for lsyncd
---hiya bitchesss
 settings {
 	logfile = "/var/log/lsyncd/lsyncd.log",
 	statusFile = "/var/log/lsyncd/lsyncd.status"
